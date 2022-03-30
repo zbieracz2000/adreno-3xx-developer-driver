@@ -6,7 +6,7 @@
 
 
 ## Requirements
-- Android 6 and up (tested Android 9, 10)
+- Android 6 and up (tested Android 9, 10, 11, 12)
 - Qualcomm Snapdragon SoC with Adreno 3xx graphics (for example Snapdragon 800, 600, 400)
 - Only tested on LineageOS based ROMs (16, 17.1) probably working on any AOSP rom and maybe stock.
 Feel free to test your stock rom and report back on my xda thread.
@@ -17,6 +17,7 @@ This module was tested on following devices:
 - HTC One M8
 - HTC One M7
 - Samsung Galaxy S5 (klte)
+- Samsung Galaxy S4 LTE & VE
 
 
 ## Copyright and all rights belong to Qualcomm Technologies International
